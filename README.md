@@ -41,7 +41,7 @@ Databases & Cloud
 🔗 Connect with Me
 <p>
   <a href="https://github.com/Pravin2004P" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pravin2004P-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/pravin-sonwane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:pravinson222@gmail.com"><img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 ---
