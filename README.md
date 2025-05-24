@@ -29,6 +29,9 @@
   <li> I am a Computer Science Engineering Graduate (2023). </li>
   <li> I am interested in problem solving, system design, and scalable backend solutions. </li>
   <li> Less preferred: Fullstack Development (ReactJS, Node.js, etc.) </li>
+  <li> Passionate about writing clean, maintainable, and efficient code. </li>
+  <li> Familiar with Agile methodologies and version control (Git). </li>
+  <li> Always eager to learn new technologies and best practices in Java ecosystem. </li>
 </ul>
 
 
@@ -62,17 +65,30 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <!-- ...existing code... -->
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white"></a>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white"></a>
+    <a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white"></a>
+    <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=junit5&logoColor=white"></a>
+    <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-4CAF50.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-ED1C24.svg?logo=lombok&logoColor=white"></a>
     <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <!-- ...existing code... -->
+</p>
+
+### Build Tools & CI/CD
+
+<p>
+    <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
+    <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white"></a>
 </p>
 
 ### Databases & Cloud Hosting
@@ -81,7 +97,9 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
-    <!-- ...existing code... -->
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 </p>
 
 ### Software and tools
@@ -91,8 +109,9 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse-ide&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <!-- ...existing code... -->
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
 </p>
 
   ## Thank you for visting my profile
@@ -102,15 +121,15 @@
 ## Connect with Me:
   
   <p>
-<a href="https://github.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/jaiswal4sudeep/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://github.com/pravin-sonwane"><img src="https://img.shields.io/badge/-pravin--sonwane-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba/"><img src="https://img.shields.io/badge/-pravin--sonwane-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://instagram.com/pravin_sonwane"><img src="https://img.shields.io/badge/-pravin_sonwane-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:pravin.sonwane.official@gmail.com"><img src="https://img.shields.io/badge/-pravin.sonwane.official@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://twitter.com/pravin_sonwane"><img src="https://img.shields.io/badge/-pravin_sonwane-blue?logo=twitter&style=flat-square"/></a>
 </p>
   
 <hr>
-  <p>Made with &hearts; by <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
+  <p>Made with &hearts; by <a href="https://github.com/pravin-sonwane" style="color:white">Pravin Sonwane</a><p>
   <p> Last Update: Jan 24, 2022 </p>
 
 
