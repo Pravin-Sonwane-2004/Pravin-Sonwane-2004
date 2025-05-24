@@ -5,8 +5,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Backend+Engineer;Problem+Solver;Fullstack+(less+preferred)" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Backend+Engineer;Problem+Solver;Fullstack+Developer;React+Developer" alt="Typing animation" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/pravin-sonwane?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
