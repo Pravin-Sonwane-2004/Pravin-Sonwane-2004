@@ -94,12 +94,21 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pravin2004P&show_icons=true&theme=radical&hide_border=true" alt="Pravin's GitHub Stats" />
   <br/>
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin2004P&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin2004P&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin2004P&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
