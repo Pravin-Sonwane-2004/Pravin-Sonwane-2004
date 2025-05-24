@@ -8,32 +8,55 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Fullstack+Engineer;React+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Pravin2004P?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Pravin2004P" />
-  </a>
-  <a href="https://github.com/Pravin2004P?tab=followers" target="_blank">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/Pravin2004P?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
-  </a>
-</p>
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Pravin Sonwane**, a passionate fullstack developer currently pursuing **Computer Science Engineering (4th year)**. I love building efficient and scalable applications with **Java (Spring Boot)** on the backend and **ReactJS** on the frontend.
 
 My interests lie in crafting clean code, solving real-world problems, and exploring system design, backend architecture, and fullstack development with modern tools and best practices.
 
-> 💻 Most Used Language: **JavaScript**
+> 💻 Most Used Language: **Java**
 
 ---
 
 ## 🚀 Currently Learning
 
 - Advanced backend with Spring Security & Microservices
-- State management in React (Redux, Zustand)
+- State management in React (Redux)
 - Dockerizing fullstack apps
 - CI/CD pipelines with GitHub Actions
 - Clean architecture and testing practices
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 [Employee Management System](https://github.com/Pravin2004P/employee-management-system)
+> A full-stack CRUD application to manage employee data with role-based access control.
+
+- **Backend:** Spring Boot (REST APIs, JPA)  
+- **Frontend:** React.js  
+- **Database:** MySQL  
+- **Features:** Authentication, real-time updates, role-based access  
+
+---
+
+### 📚 [Library Management System](https://github.com/Pravin2004P/library-management-system)
+> A system for managing book inventory, student-librarian interactions, and issue/return processes.
+
+- **Backend:** Spring Boot  
+- **Frontend:** React.js  
+- **Database:** MySQL  
+- **Features:** Optimized search, user authentication, dynamic role-based UI
+
+---
+
+### 🧠 [Quiz Application](https://github.com/Pravin2004P/quiz-app)
+> An interactive quiz platform with real-time scoring and authentication.
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Next.js  
+- **Database:** MongoDB  
+- **Features:** JWT-based login, responsive UI, server-side rendering
 
 ---
 
@@ -88,7 +111,6 @@ My interests lie in crafting clean code, solving real-world problems, and explor
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white" />
 </p>
 
 ---
