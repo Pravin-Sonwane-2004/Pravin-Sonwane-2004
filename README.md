@@ -23,6 +23,8 @@ Hi! I'm **Pravin Sonwane**, a passionate fullstack developer currently pursuing 
 
 My interests lie in crafting clean code, solving real-world problems, and exploring system design, backend architecture, and fullstack development with modern tools and best practices.
 
+> 💻 Most Used Language: **JavaScript**
+
 ---
 
 ## 🚀 Currently Learning
@@ -88,27 +90,6 @@ My interests lie in crafting clean code, solving real-world problems, and explor
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pravin2004P&show_icons=true&theme=radical&hide_border=true" alt="Pravin's GitHub Stats" />
-  <br/>
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin2004P&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
-  <br/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin2004P&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
-
 
 ---
 
