@@ -1,17 +1,22 @@
+<!--
+  README Profile for PRAVIN2004P
+  Inspired by popular GitHub profile README templates
+-->
+
 <h1 align="center">Hi 👋, I'm Pravin</h1>
 <h3 align="center">Aspiring Java Full Stack Developer | 3rd Year Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Learning+Microservices+%26+DevOps+Tools;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Learning+Microservices+%26+DevOps;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 3rd-year Engineering Student  
-- 💻 Currently learning **Microservices, Docker, and System Design**
-- 📌 Actively building Java Spring Boot projects with REST APIs and frontend in React
-- 📫 Reach me: pravin@example.com *(replace with your real email)*
+- 🎓 3rd-year Engineering Student focused on Java Full Stack Development
+- 💡 Currently learning Microservices architecture, Docker, and Kubernetes
+- 💻 Building projects using Spring Boot, REST APIs, and React frontend
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com) *(replace with your email)*
 
 ---
 
@@ -19,7 +24,7 @@
 
 #### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
 #### Frontend
@@ -40,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRAVIN2004P&show_icons=true&theme=radical" alt="Pravin's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=PRAVIN2004P&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAVIN2004P&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,7 +59,19 @@
 ---
 
 ### 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pravin@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
+---
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=PRAVIN2004P&color=blue)
+
