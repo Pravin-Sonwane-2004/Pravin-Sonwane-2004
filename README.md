@@ -8,9 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Fullstack+Engineer;React+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing animation" />
 </p>
 ## 👨‍💻 About Me
+
 Hi! I'm **Pravin Sonwane**, a passionate fullstack developer currently pursuing **Computer Science Engineering (4th year)**. I love building efficient and scalable applications with **Java (Spring Boot)** on the backend and **ReactJS** on the frontend
 My interests lie in crafting clean code, solving real-world problems, and exploring system design, backend architecture, and fullstack development with modern tools and best practices.
+
 ### Languages
+
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
