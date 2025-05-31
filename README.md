@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img align="center" height="100px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg" alt="Logo" /> 
+  <img align="center" height="80px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg" alt="Logo" /> 
   <br><br>
   Hey There! I'm Pravin Sonwane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/>
 </h2>
