@@ -8,14 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Fullstack+Engineer;React+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing animation" />
 </p>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 Hi! I'm **Pravin Sonwane**, a passionate fullstack developer currently pursuing **Computer Science Engineering (4th year)**. I love building efficient and scalable applications with **Java (Spring Boot)** on the backend and **ReactJS** on the frontend.  
 My interests lie in crafting clean code, solving real-world problems, and exploring system design, backend architecture, and fullstack development with modern tools and best practices.
 
 🔗 **Check out my Portfolio:** [https://portfolio-react-app-rho.vercel.app](https://portfolio-react-app-rho.vercel.app)
 
-### Languages
+---
+
+### 🧠 Languages
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
@@ -25,7 +27,7 @@ My interests lie in crafting clean code, solving real-world problems, and explor
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
 </p>
 
-### Frameworks & Libraries
+### 📚 Frameworks & Libraries
 
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white" />
@@ -37,7 +39,7 @@ My interests lie in crafting clean code, solving real-world problems, and explor
   <img alt="Lombok" src="https://img.shields.io/badge/Lombok-ED1C24.svg?logo=lombok&logoColor=white" />
 </p>
 
-### Databases & Cloud
+### ☁️ Databases & Cloud
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
@@ -47,7 +49,7 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 
 ---
 
-🔗 Connect with Me
+## 🔗 Connect with Me
 
 <p>
   <a href="https://github.com/Pravin-Sonwane-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github" /></a>
@@ -58,8 +60,9 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 
 ---
 
-👀 Visitor Count
+## 👀 Visitor Count
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Total%20Visitors-309+-blue?style=for-the-badge&logo=github" /><br><br>
   <img src="https://profile-counter.glitch.me/Pravin-Sonwane-2004/count.svg" alt="Visitor Counter" />
 </p>
