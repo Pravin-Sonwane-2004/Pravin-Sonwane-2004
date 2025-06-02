@@ -53,7 +53,7 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 
 <p>
   <a href="https://github.com/Pravin-Sonwane-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:pravinson222@gmail.com"><img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio-react-app-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel" /></a>
 </p>
@@ -63,6 +63,6 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Visitors-309+-blue?style=for-the-badge&logo=github" /><br><br>
+  <img src="https://img.shields.io/badge/Started%20from-309+-blue?style=for-the-badge&logo=github" alt="Starting count" /><br><br>
   <img src="https://profile-counter.glitch.me/Pravin-Sonwane-2004/count.svg" alt="Visitor Counter" />
 </p>
