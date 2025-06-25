@@ -4,8 +4,6 @@
   Hey There! I'm Pravin Sonwane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/>
 </h2>
 
-<h4>☕ Support me: [Buy Me a Coffee](https://buymeacoffee.com/your-link)</h4>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Fullstack+Engineer;React+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing animation" />
 </p>
@@ -50,6 +48,10 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 ---
 
 🔗 Connect with Me
+
+<a href="https://coff.ee/devpravin" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee">
+</a>
 
 <p>
   <a href="https://github.com/Pravin-Sonwane-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github" /></a>
