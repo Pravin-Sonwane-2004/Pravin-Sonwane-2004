@@ -73,5 +73,6 @@ I enjoy building scalable and maintainable web applications using **Java (Spring
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-410-blue?style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://hits.sh/github.com/Pravin-Sonwane-2004.svg?style=flat-square&label=Visitors&color=36BCF7&logo=github" alt="Visitor Counter" />
 </p>
+
