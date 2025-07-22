@@ -65,5 +65,5 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 👀 Visitor Count
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/Pravin-Sonwane-2004/count.svg?cache=false" alt="Visitor Counter" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Pravin-Sonwane-2004.visitor-badge" alt="Visitor Badge" />
 </p>
