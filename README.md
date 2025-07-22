@@ -8,14 +8,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=600&height=100&lines=Java+Developer;Spring+Boot+Enthusiast;Fullstack+Engineer;React+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing animation" />
 </p>
 
-👨‍💻 About Me
+---
 
-Hi! I'm **Pravin Sonwane**, a passionate fullstack developer currently pursuing **Computer Science Engineering (4th year)**. I love building efficient and scalable applications with **Java (Spring Boot)** on the backend and **ReactJS** on the frontend.  
-My interests lie in crafting clean code, solving real-world problems, and exploring system design, backend architecture, and fullstack development with modern tools and best practices.
+## 👨‍💻 About Me
 
-🔗 **Check out my Portfolio:** [https://portfolio-react-app-rho.vercel.app](https://portfolio-react-app-rho.vercel.app)
+Hi! I'm **Pravin Sonwane**, a passionate fullstack developer currently pursuing **Computer Science Engineering (4th year)**.  
+I enjoy building scalable and maintainable web applications using **Java (Spring Boot)** and **ReactJS**. My focus is on clean code, backend architecture, and solving real-world problems through modern fullstack solutions.
 
-### Languages
+🔗 **Portfolio:** [https://portfolio-react-app-rho.vercel.app](https://portfolio-react-app-rho.vercel.app)
+
+---
+
+## 💻 Languages
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
@@ -25,7 +29,9 @@ My interests lie in crafting clean code, solving real-world problems, and explor
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
 </p>
 
-### Frameworks & Libraries
+---
+
+## 📚 Frameworks & Libraries
 
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white" />
@@ -37,7 +43,9 @@ My interests lie in crafting clean code, solving real-world problems, and explor
   <img alt="Lombok" src="https://img.shields.io/badge/Lombok-ED1C24.svg?logo=lombok&logoColor=white" />
 </p>
 
-### Databases & Cloud
+---
+
+## ☁️ Databases & Cloud
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
@@ -47,7 +55,7 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 
 ---
 
-🔗 Connect with Me
+## 🤝 Connect with Me
 
 <a href="https://coff.ee/devpravin" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee">
@@ -55,15 +63,15 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 
 <p>
   <a href="https://github.com/Pravin-Sonwane-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:pravinson222@gmail.com"><img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio-react-app-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-👀 Visitor Count
+## 👀 Visitor Count
 
-<p align="center">![Visitor Count](https://img.shields.io/badge/Visitors-410-blue?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-410-blue?style=for-the-badge" alt="Visitor Count"/>
 </p>
