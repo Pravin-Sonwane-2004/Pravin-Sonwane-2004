@@ -65,5 +65,6 @@ My interests lie in crafting clean code, solving real-world problems, and explor
 👀 Visitor Count
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Pravin-Sonwane-2004.visitor-badge" alt="Visitor Badge" />
+👀 Total Visitors (including past): **500+**
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Pravin-Sonwane-2004.visitor-badge" />
 </p>
