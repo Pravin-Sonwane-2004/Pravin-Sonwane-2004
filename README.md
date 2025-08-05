@@ -66,7 +66,7 @@ I enjoy building scalable and maintainable web applications using **Java (Spring
   <a href="https://github.com/Pravin-Sonwane-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:pravinson222@gmail.com"><img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-react-app-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel" /></a>
+  <a href="[https://portfolio-react-app-rho.vercel.app/](https://pravin-sonwane-portfolio.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
