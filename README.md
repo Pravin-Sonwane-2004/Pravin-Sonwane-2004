@@ -8,13 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=40&center=true&vCenter=true&width=800&height=100&lines=Full-Stack+Java+Developer;Spring+Boot+Enthusiast;Full-Stack+Engineer;React+Developer;Problem+Solver;Clean+Code+Advocate" alt="Typing Animation" />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Pravin Sonwane**, a passionate fullstack developer currently pursuing **Computer Science Engineering (4th year)**.  
-I enjoy building scalable and maintainable web applications using **Java (Spring Boot)** and **ReactJS**. My focus is on clean code, backend architecture, and solving real-world problems through modern fullstack solutions.
+Hi! I'm **Pravin Sonwane**, a passionate Full Stack Developer currently pursuing **B.Tech in Computer Science (4th Year)**.  
+I specialize in building scalable, maintainable, and production-ready web applications using **Java (Spring Boot)** and **ReactJS**.  
+I believe in writing clean code and solving real-world problems with practical solutions.
 
 🔗 **Portfolio:** [https://portfolio-react-app-rho.vercel.app](https://portfolio-react-app-rho.vercel.app)
 
@@ -54,7 +54,7 @@ I enjoy building scalable and maintainable web applications using **Java (Spring
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" />
 </p>
 
----  
+---
 
 ## 🤝 Connect with Me
 
@@ -63,10 +63,18 @@ I enjoy building scalable and maintainable web applications using **Java (Spring
 </a>
 
 <p>
-  <a href="https://github.com/Pravin-Sonwane-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:pravinson222@gmail.com"><img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://pravin-sonwane-portfolio.vercel.app/]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://github.com/Pravin-Sonwane-2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pravinson222@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-react-app-rho.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
@@ -80,4 +88,3 @@ I enjoy building scalable and maintainable web applications using **Java (Spring
     height="40px"
   />
 </p>
-
