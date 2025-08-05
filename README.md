@@ -39,8 +39,6 @@ I believe in writing clean code and solving real-world problems with practical s
   <img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white" />
   <img alt="ReactJS" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white" />
-  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=junit5&logoColor=white" />
-  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-4CAF50.svg?logo=java&logoColor=white" />
   <img alt="Lombok" src="https://img.shields.io/badge/Lombok-ED1C24.svg?logo=lombok&logoColor=white" />
 </p>
 
