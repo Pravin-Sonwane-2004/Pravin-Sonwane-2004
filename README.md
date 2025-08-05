@@ -16,7 +16,7 @@ Hi! I'm **Pravin Sonwane**, a passionate Full Stack Developer currently pursuing
 I specialize in building scalable, maintainable, and production-ready web applications using **Java (Spring Boot)** and **ReactJS**.  
 I believe in writing clean code and solving real-world problems with practical solutions.
 
-🔗 **Portfolio:** [https://portfolio-react-app-rho.vercel.app](https://portfolio-react-app-rho.vercel.app)
+🔗 **Portfolio:** [https://pravin-sonwane-portfolio.vercel.app](https://pravin-sonwane-portfolio.vercel.app)
 
 ---
 
@@ -72,7 +72,7 @@ I believe in writing clean code and solving real-world problems with practical s
   <a href="mailto:pravinson222@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-react-app-rho.vercel.app" target="_blank">
+  <a href="https://pravin-sonwane-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
 </p>
