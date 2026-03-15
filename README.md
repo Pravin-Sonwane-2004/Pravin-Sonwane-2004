@@ -1,168 +1,166 @@
-<h1 align="center">Hi 👋, I'm Pravin Sonwane</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST API Engineer</h3>
+<h2 align="center">
+<img align="center" height="80px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg" alt="Logo"/> 
+<br><br>
+Hey There! I'm Pravin Sonwane 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h2>
 
 <p align="center">
-  <a href="https://github.com/Pravin-Sonwane-2004">
-    <img src="https://komarev.com/ghpvc/?username=Pravin-Sonwane-2004&label=Profile%20Visitors&color=0e75b6&style=flat" alt="visitor counter"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=40&center=true&vCenter=true&width=800&height=100&lines=Java+Backend+Developer;Spring+Boot+Engineer;REST+API+Developer;Problem+Solver;DSA+Enthusiast"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm **Pravin Sonwane**, a **Java Backend Developer** passionate about building scalable backend systems and secure APIs.
+Hi! I'm **Pravin Sonwane**, a passionate **Java Backend Developer** currently pursuing **B.Tech in Computer Science (Final Year)**.
 
-* 🎓 Final Year **B.Tech Computer Science Student**
-* 💻 Specialized in **Java, Spring Boot, and RESTful APIs**
-* 🧠 Solved **100+ Data Structures & Algorithms problems**
-* 🔐 Experience with **JWT Authentication and Role-Based Access Control**
-* 📚 Currently improving **SQL, System Design, and Backend Architecture**
+I specialize in building **scalable, maintainable, and production-ready backend applications** using:
 
-🌐 **Portfolio:**
+* **Java**
+* **Spring Boot**
+* **REST APIs**
+* **MySQL**
+
+I enjoy designing **secure backend architectures**, implementing **authentication systems**, and solving **real-world problems with clean code**.
+
+🎓 **B.Tech Computer Science (Final Year)**
+📈 **Solved 100+ DSA problems on LeetCode**
+
+🔗 Portfolio
 https://pravin-sonwane-portfolio.vercel.app
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Technical Skills
 
 ### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
+<img src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+---
+
+### ⚙️ Backend Frameworks
 
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lombok-ED1C24.svg?logo=lombok&logoColor=white"/>
 </p>
+
+---
 
 ### 🗄 Databases
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"/>
 </p>
+
+---
 
 ### 🛠 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📌 Featured Projects
 
-### Job Portal Backend
+## Job Portal Backend
 
 **Spring Boot • MySQL • Spring Security • JWT**
 
-* Implemented **Role-Based Access Control (RBAC)** with JWT authentication
-* Designed scalable **REST APIs for recruiters and job seekers**
-* Integrated **Spring Mail API for automated email notifications**
-* Implemented secure **authentication and authorization layers**
+* Implemented **Role-Based Access Control (RBAC)**
+* Designed secure **REST APIs**
+* Integrated **Spring Mail API**
+* Implemented **JWT Authentication**
 
 ---
 
-### Library Management System
+## Library Management System
 
 **Spring Boot • MySQL**
 
-* Built REST APIs for **book management and borrowing system**
-* Implemented **CRUD operations using Spring Data JPA**
-* Designed optimized **MySQL database schema**
-* Followed **Layered Architecture and Clean Code principles**
+* Built REST APIs for **book management**
+* Implemented **CRUD operations**
+* Designed optimized **MySQL schema**
+* Followed **layered architecture**
 
 ---
 
-## 💼 Internship
+# 💼 Experience
 
-**Java Programmer Intern**
-CODTECH IT Solutions Pvt. Ltd.
+### Java Programmer Intern
+
+**CODTECH IT Solutions Pvt. Ltd.**
 May 2025 – June 2025
 
 * Developed backend modules using **Spring Boot**
-* Improved **data retrieval performance**
-* Used **Postman & Swagger** for API testing and documentation
-* Integrated **MySQL with Hibernate ORM**
+* Improved **data retrieval efficiency**
+* Used **Postman & Swagger** for API testing
+* Integrated **MySQL with Hibernate**
 
 ---
 
-## 🧠 Problem Solving
+# 🧠 Problem Solving
 
 * Solved **100+ problems on LeetCode**
-* Practiced topics:
 
-```
-Arrays
-Hashing
-Linked Lists
-Recursion
-Two Pointer
-Basic Dynamic Programming
-```
+Topics practiced:
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pravin-Sonwane-2004&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin-Sonwane-2004&layout=compact&theme=tokyonight"/>
-
-</p>
+* Arrays
+* Hashing
+* Linked Lists
+* Recursion
+* Two Pointers
+* Basic Dynamic Programming
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin-Sonwane-2004&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p>
+
+<a href="https://coff.ee/devpravin">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
+</a>
 
 <a href="https://github.com/Pravin-Sonwane-2004">
 <img src="https://img.shields.io/badge/GitHub-Pravin--Sonwane--2004-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba">
-<img src="https://img.shields.io/badge/LinkedIn-Pravin_Sonwane-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-pravin--sonwane-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:pravinson222@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-pravinson222%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-pravinson222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://pravin-sonwane-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-brightgreen?style=for-the-badge&logo=vercel"/>
+<a href="https://pravin-sonwane-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
 
 ---
+
+# 👀 Visitor Count
 
 <p align="center">
 <img src="https://hits.sh/github.com/Pravin-Sonwane-2004.svg?style=for-the-badge&label=Visitors&color=36BCF7&logo=github"/>
