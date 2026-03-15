@@ -132,6 +132,48 @@ Topics practiced:
 
 ---
 
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Pravin-Sonwane-2004?theme=dark&font=Baloo&ext=heatmap"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pravin-Sonwane-2004&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin-Sonwane-2004&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin-Sonwane-2004&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin-Sonwane-2004&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 <p>
