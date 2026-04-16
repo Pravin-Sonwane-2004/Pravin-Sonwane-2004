@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://pravin-sonwane-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://github.com/Pravin-Sonwane-2004](https://docs.google.com/document/d/1RmpPmppFxfOKwX8t7xXOr_RbtanZM8U3/edit">Resume</a> •
+  <a href="https://docs.google.com/document/d/1RmpPmppFxfOKwX8t7xXOr_RbtanZM8U3/edit">Resume</a> •
   <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba">LinkedIn</a>
 </p>
 
