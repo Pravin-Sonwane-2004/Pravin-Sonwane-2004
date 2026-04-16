@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://pravin-sonwane-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://github.com/Pravin-Sonwane-2004">GitHub</a> •
+  <a href="https://github.com/Pravin-Sonwane-2004](https://docs.google.com/document/d/1RmpPmppFxfOKwX8t7xXOr_RbtanZM8U3/edit">Resume</a> •
   <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba">LinkedIn</a>
 </p>
 
@@ -68,11 +68,17 @@
 
 ---
 
+---
+
 # 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pravin-Sonwane-2004?theme=dark&ext=heatmap"/>
+  <a href="https://leetcode.com/u/Pravin-Sonwane-2004/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Pravin-Sonwane-2004?theme=dark&ext=heatmap"/>
+  </a>
 </p>
+
+---
 
 ---
 
