@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://pravin-sonwane-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://docs.google.com/document/d/1RmpPmppFxfOKwX8t7xXOr_RbtanZM8U3/edit">Resume</a> •
+  <a href="https://docs.google.com/document/d/1-w1yR_0LT-NZ5mC9CHw4YvRp3v3Qr4Um/edit?usp=sharing&ouid=101848828423054228404&rtpof=true&sd=true">Resume</a> •
   <a href="https://www.linkedin.com/in/pravin-sonwane-079a621ba">LinkedIn</a> •
   <a href="mailto:pravinson222@gmail.com">Email</a>
 </p>
